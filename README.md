@@ -1,6 +1,6 @@
 ### Hi there ヽ(°〇°)ﾉ
 
-(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ```My name is Anastasia, and I love to write code, and create things, I'm a geek, I love going to hackerspace every week, and I enjoy my job, I'm a traveler in life, and I work from different parts of the world.```
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ```My name is Anastasia. I love to architect programs and create things. Based in Dijon. Searching for work. EN:B2, RU:Native, FR:A2```
 
 __〆(￣ー￣ ) ```I’m currently working on:``` /fox_cards
 ```Last place of work:``` [Nutcracker](https://back.nutcracker.lab.upg/#/)
